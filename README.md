@@ -1,4 +1,4 @@
-# Selenium Projects
+# Selenium Projects 🌐
 
 This repository contains three Python scripts utilizing Selenium to automate various web interactions. Each script demonstrates specific Selenium functionalities, including web element selection, form automation, and event extraction.
 
