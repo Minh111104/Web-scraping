@@ -84,3 +84,5 @@ python challenge.py
 - Ensure the `chromedriver` version matches your installed Chrome version to avoid compatibility issues.
 - Use `chrome_options.add_experimental_option("detach", True)` to keep the browser open after the script ends.
 
+## License
+This project is created for educational purpose.
